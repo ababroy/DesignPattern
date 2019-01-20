@@ -1,5 +1,10 @@
 package com.java.dp.singleton;
 
+/**
+ * 
+ * @author royabhix
+ *
+ */
 public class Singleton
 {
     private volatile static Singleton singleton;
